@@ -1,2 +1,9 @@
-# codecraft-journey
-A repository showcasing my coding journey, including practices programs and projects in java, 
+CodeCraft-Journey
+
+Welcome to Codecraft-journey.
+
+This repository is a collection of my coding practice and project work.
+It includes programs and implementation created while working on different programmming concepts and problem-solving tasks.
+
+
+
