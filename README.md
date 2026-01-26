@@ -2,5 +2,5 @@
 
 Here are the program I have practiced:
 
-* [Sum of Numbers Program](Sum.java)
+* [Sum of Numbers Program](sum.java)
   
