@@ -19,8 +19,8 @@ Here are the program I have practiced:
 * [Traffic System](TrafficSystem.java)
 * [USerDetails](UserDetails.Java)
 * [UserEntry](UserEntry.Java)
-* [UserScore](Useuscore.java)
+* [UserScore](UseuScore.java)
 * [Main Program](main.java)
-* [Scholarshipcheck](Scholarshipcheck.java)
+* [ScholarshipCheck](ScholarshipCheck.java)
 
   
