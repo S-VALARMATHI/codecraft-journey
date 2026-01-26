@@ -5,7 +5,7 @@ Here are the program I have practiced:
 * [Divisible Check Program](DivisibleCheck.java)
 * [Even Number Program](EvenNumber.java)
 * [Even Number Sum Program](EvenNumberSum.java)
-* [Even or Odd Program](EvenOdd,java)
+* [Even or Odd Program](EvenOdd.java)
 * [GCD Program](GCD.java)
 * [Laptop program](Laptop.java)
 * [Mark List Program](MarkList.java)
