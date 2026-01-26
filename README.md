@@ -17,10 +17,10 @@ Here are the program I have practiced:
 * [Student Marks](StudentMarks.java)
 * [StudentScore](StudentScore.java)
 * [Traffic System](TrafficSystem.java)
-* [USerDetails](UserDetails.java)
-* [UserEntry](UserEntry.java)
+* [USerDetails](UserDetails.Java)
+* [UserEntry](UserEntry.Java)
 * [UserScore](Useuscore.java)
 * [Main Program](main.java)
-* [Scholarship check](Scholarshipcheck.java)
+* [Scholarshipcheck](Scholarshipcheck.java)
 
   
