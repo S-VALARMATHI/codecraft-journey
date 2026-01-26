@@ -14,5 +14,13 @@ Here are the program I have practiced:
 * [Pass or Fail Check Program](PassFailCheck.java)
 * [Score Evaluator Program](ScoreEvaluator.java)
 * [Solution Program](Solution.Java)
+* [Student Marks](StudentMarks.java)
+* [StudentScore](StudentScore.java)
+* [Traffic System](TrafficSystem.java)
+* [USerDetails](UserDetails.java)
+* [UserEntry](UserEntry.java)
+* [UserScore](Useuscore.java)
+* [Main Program](main.java)
+* [Scholarship check](Scholarshipcheck.java)
 
   
