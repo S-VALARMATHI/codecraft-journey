@@ -13,6 +13,6 @@ Here are the program I have practiced:
 * [Odd NumberSum.java](OddNumberSum.java)
 * [Pass or Fail Check Program](PassFailCheck.java)
 * [Score Evaluator Program](ScoreEvaluator.java)
-* [Solution Program](https://github.com/S-Valarmathi/codecraft-journey.git)
+* [Solution Program](Solution.Java)
 
   
