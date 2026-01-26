@@ -1,9 +1,6 @@
-CodeCraft-Journey
+# My java Learning Journey 🚀
 
-Welcome to Codecraft-journey.
+Here are the program I have practiced:
 
-This repository is a collection of my coding practice and project work.
-It includes programs and implementation created while working on different programmming concepts and problem-solving tasks.
-
-
-
+* [Sum of Numbers Program](Sum.java)
+  
